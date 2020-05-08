@@ -223,7 +223,7 @@ footer p{
 }
 
 /* MEDIA QUERY FOR MOBILE */
-@media (max-width:735px) and (min-width: 481px)
+@media (max-width:735px)
 {
    nav {
        padding-left: 0;
